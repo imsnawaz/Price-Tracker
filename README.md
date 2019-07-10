@@ -9,3 +9,13 @@ We can also add the functionality of mail alerts using the send_mail().
 Draw backs: Some websites don’t allow automated requests so as to prevent 
 the servers from getting overloaded. Some sites that do allow this 
 price tracker: Amazon, Flipkart, ZARA, Myntra. Works only on OSX.
+
+# Contributing
+Feel free to contribute
+- Fork
+- Commit
+- Push
+- Submit Pull Request
+
+# Report
+Report an [error](https://github.com/imsnawaz/Price-Tracker/issues)
